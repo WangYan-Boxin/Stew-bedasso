@@ -1,3 +1,5 @@
-a = input("Entre a string: ")
-p = a.count("is")
-print(p)
+import sys
+sys.stdin = open("in.txt","r")
+sys.stdout = open("out.txt","w")
+a = int(input())
+print(a*2)
