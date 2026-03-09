@@ -1,6 +1,6 @@
 import sys
-sys.stdin = open("in.txt","r")
-sys.stdout = open("out.txt","w")
+sys.stdin = open("in.txt", "r")
+sys.stdout = open("out.txt", "w")
 antennae=int(input())
 eyes=int(input())
 if antennae >= 3 and eyes <=4 :

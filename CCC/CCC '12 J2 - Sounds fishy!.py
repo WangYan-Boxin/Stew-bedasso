@@ -1,6 +1,6 @@
 import sys
-sys.stdin = open("in.txt","r")
-sys.stdout = open("out.txt","w")
+sys.stdin = open("in.txt", "r")
+sys.stdout = open("out.txt", "w")
 #提交答案时不要包括这上面的
 a = int(input())
 b = int(input())

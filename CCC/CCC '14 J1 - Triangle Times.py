@@ -1,6 +1,6 @@
 import sys
-sys.stdin = open("in.txt","r")
-sys.stdout = open("out.txt","w")
+sys.stdin = open("in.txt", "r")
+sys.stdout = open("out.txt", "w")
 a1=int(input())
 a2=int(input())
 a3=int(input())
