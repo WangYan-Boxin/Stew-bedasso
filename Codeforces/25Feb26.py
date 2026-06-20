@@ -1,6 +1,6 @@
 import sys
-sys.stdin = open("../CCC/in.txt", "r")
-sys.stdout = open("../CCC/out.txt", "w")
+sys.stdin = open("../DMOJ/in.txt", "r")
+sys.stdout = open("../DMOJ/out.txt", "w")
 
 t = int(input())
 for i in range(t):
